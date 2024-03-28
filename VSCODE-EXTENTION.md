@@ -7,7 +7,7 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-### <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.4/1705910560908/Microsoft.VisualStudio.Services.Icons.Default" width="48"/>  ESLint
+### <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.4/1705910560908/Microsoft.VisualStudio.Services.Icons.Default" width="48"/> ESLint
 
 Integrates ESLint into VS Code. If you are new to ESLint check the documentation.
 
@@ -44,7 +44,7 @@ VS Code extension that enables the nightly build of TypeScript (typescript@next)
 
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next
 
-#### Template String Converter
+### <img src="https://meganrogge.gallerycdn.vsassets.io/extensions/meganrogge/template-string-converter/0.6.1/1681403288998/Microsoft.VisualStudio.Services.Icons.Default" width="48"/> Template String Converter
 
 Converts a string to a template string when ${ is typed
 
