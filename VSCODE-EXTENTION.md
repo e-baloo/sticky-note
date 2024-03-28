@@ -2,15 +2,12 @@
 # Extension
 
 ### <img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" width="48"/> Prettier - Code formatter
-![icon](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default)
-
-<img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.4.0/1711025051911/Microsoft.VisualStudio.Services.Icons.Default" width="48"/>
 
 Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-#### ESLint
+### <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.4/1705910560908/Microsoft.VisualStudio.Services.Icons.Default" width="48"/>  ESLint
 
 Integrates ESLint into VS Code. If you are new to ESLint check the documentation.
 
