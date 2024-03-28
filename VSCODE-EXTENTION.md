@@ -80,7 +80,7 @@ https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 
 ## Git
 
-### <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.29.0/1707838710399/Microsoft.VisualStudio.Services.Icons.Default" width="48"/> GitLens — Supercharge Git in VS Code
+### <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2024.3.2805/1711616905894/Microsoft.VisualStudio.Services.Icons.Default" width="48"/> GitLens — Supercharge Git in VS Code
 
 GitLens is a powerful open-source extension for Visual Studio Code.
 
