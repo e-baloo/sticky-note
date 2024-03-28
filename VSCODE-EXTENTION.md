@@ -110,11 +110,17 @@ ColorTabs for vscode
 
 https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext
 
-#### <img src="https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/12.7.0/1705252306046/Microsoft.VisualStudio.Services.Icons.Default" width="48"/> vscode-icons
+### <img src="https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/12.7.0/1705252306046/Microsoft.VisualStudio.Services.Icons.Default" width="48"/> vscode-icons
 
 Bring real icons to your Visual Studio Code
 
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+### Font
+
+https://fonts.google.com/specimen/Fira+Code
+
+https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions
 
 ## TODO
 
@@ -185,9 +191,5 @@ GitLens - Git Supercharged
 
 Git History
 
-# Font
 
-https://fonts.google.com/specimen/Fira+Code
-
-https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions
 
